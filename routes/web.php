@@ -1,8 +1,6 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Illuminate\Http\Response;
-use Illuminate\Http\Request;
 
 use App\Http\Requests\TaskRequest;
 use App\Models\Task;
